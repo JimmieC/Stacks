@@ -1,0 +1,24 @@
+M:\Projects\StacksLists\StacksLists\bin\Debug\StacksLists.exe.config
+M:\Projects\StacksLists\StacksLists\bin\Debug\StacksLists.exe
+M:\Projects\StacksLists\StacksLists\bin\Debug\StacksLists.pdb
+M:\Projects\StacksLists\StacksLists\obj\Debug\StacksLists.csprojResolveAssemblyReference.cache
+M:\Projects\StacksLists\StacksLists\obj\Debug\StacksLists.exe
+M:\Projects\StacksLists\StacksLists\obj\Debug\StacksLists.pdb
+F:\School\StacksListV1.0\StacksLists\StacksLists\bin\Debug\StacksLists.exe.config
+F:\School\StacksListV1.0\StacksLists\StacksLists\obj\Debug\StacksLists.exe
+F:\School\StacksListV1.0\StacksLists\StacksLists\obj\Debug\StacksLists.pdb
+F:\School\StacksListV1.0\StacksLists\StacksLists\bin\Debug\StacksLists.exe
+F:\School\StacksListV1.0\StacksLists\StacksLists\bin\Debug\StacksLists.pdb
+F:\School\StacksListV1.0\StacksLists\StacksLists\obj\Debug\StacksLists.csprojResolveAssemblyReference.cache
+M:\StacksListV1.1\StacksListV1.1\StacksLists\StacksLists\bin\Debug\StacksLists.exe.config
+M:\StacksListV1.1\StacksListV1.1\StacksLists\StacksLists\obj\Debug\StacksLists.exe
+M:\StacksListV1.1\StacksListV1.1\StacksLists\StacksLists\obj\Debug\StacksLists.pdb
+M:\StacksListV1.1\StacksListV1.1\StacksLists\StacksLists\bin\Debug\StacksLists.exe
+M:\StacksListV1.1\StacksListV1.1\StacksLists\StacksLists\bin\Debug\StacksLists.pdb
+M:\StacksListV1.1\StacksListV1.1\StacksLists\StacksLists\obj\Debug\StacksLists.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Stuff for github\StacksLists_James_Uppgift_1_fix\StacksListV1.2_James_Uppgift_1\StacksListV1.1\StacksLists\StacksLists\bin\Debug\StacksLists.exe.config
+C:\Users\James\Desktop\Stuff for github\StacksLists_James_Uppgift_1_fix\StacksListV1.2_James_Uppgift_1\StacksListV1.1\StacksLists\StacksLists\obj\Debug\StacksLists.exe
+C:\Users\James\Desktop\Stuff for github\StacksLists_James_Uppgift_1_fix\StacksListV1.2_James_Uppgift_1\StacksListV1.1\StacksLists\StacksLists\obj\Debug\StacksLists.pdb
+C:\Users\James\Desktop\Stuff for github\StacksLists_James_Uppgift_1_fix\StacksListV1.2_James_Uppgift_1\StacksListV1.1\StacksLists\StacksLists\bin\Debug\StacksLists.exe
+C:\Users\James\Desktop\Stuff for github\StacksLists_James_Uppgift_1_fix\StacksListV1.2_James_Uppgift_1\StacksListV1.1\StacksLists\StacksLists\bin\Debug\StacksLists.pdb
+C:\Users\James\Desktop\Stuff for github\StacksLists_James_Uppgift_1_fix\StacksListV1.2_James_Uppgift_1\StacksListV1.1\StacksLists\StacksLists\obj\Debug\StacksLists.csprojResolveAssemblyReference.cache
